@@ -1,0 +1,1 @@
+Ce projet est un compteur de calories basé sur une application web permettant aux utilisateurs de suivre les aliments consommés et afficher les calories totales dans un tableau et un graphique.
